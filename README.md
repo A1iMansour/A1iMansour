@@ -10,6 +10,9 @@
     <a href="https://stackoverflow.com/users/21113013/a1imansour">
       <img src="https://img.shields.io/badge/stackoverflow-orange?logo=stackoverflow&logoColor=white&style=for-the-badge" width="100" height="26">
     </a>
+    <a href="https://math.stackexchange.com/users/1073973/a1imansour">
+      <img src="https://img.shields.io/badge/stackexchange-black?logo=stackexchange&logoColor=blue&style=for-the-badge" width="100" height="26">
+    </a>
   </div>
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=A1iMansour&style=flat-square&color=blue" alt=""/>
