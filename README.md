@@ -34,7 +34,7 @@
 
 ### :fire: My Stats :
 <div >
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?user=A1iMansour&theme=dark&background=000000">
+  <img src="https://streak-stats.demolab.com/?user=A1iMansour&theme=dark&background=000000">
   <br clear="right"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=vision-friendly-dark">
 </div>
