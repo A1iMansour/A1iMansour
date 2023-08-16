@@ -37,4 +37,5 @@
   <img src="https://streak-stats.demolab.com/?user=A1iMansour&theme=dark&background=000000">
   <br clear="right"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=vision-friendly-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username=A1iMansour&layout=compact&theme=vision-friendly-dark">
 </div>
