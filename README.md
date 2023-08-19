@@ -37,19 +37,17 @@
   
   <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=A1iMansour&theme=vision-friendly-dark">-->
 ### :fire: My Stats :
-<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
-<table>
+<table border="0">
 
-  <th>
-    <tr>
-      <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
-    </tr>
-    <tr>
-      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
-    </tr>
-  </th>
-  
+  <tr>
+    <th width="600vw">
+      <img width="550vw" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
+      <img width="550vw" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
+    </th>
+    <th>
+     <img height ="455vw" src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
+    </th>
+  </tr>
+
 </table>
