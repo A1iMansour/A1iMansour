@@ -46,7 +46,7 @@
       <img width="550vw" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
     </th>
     <th>
-     <img height ="455vw" src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
+     <img width= "400vw"  src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
     </th>
   </tr>
 
