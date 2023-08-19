@@ -41,7 +41,7 @@
 <table >
 
   <tr>
-    <th width="600vw">
+    <th width="570vw">
       <img width="550vw" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
       <img width="550vw" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
     </th>
