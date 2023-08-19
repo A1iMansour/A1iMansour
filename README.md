@@ -38,7 +38,7 @@
   <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=A1iMansour&theme=vision-friendly-dark">-->
 ### :fire: My Stats :
 
-<table border="0">
+<table >
 
   <tr>
     <th width="600vw">
