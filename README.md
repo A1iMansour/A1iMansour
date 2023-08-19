@@ -34,9 +34,9 @@
 
 ### :fire: My Stats :
 <div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=transparent">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&layout=compact&theme=transparent">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=blue_navy">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&layout=compact&theme=blue_navy">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=blue_navy">
   <br clear="right"/>
   <!--<img src="https://streak-stats.demolab.com/?user=A1iMansour&theme=dark&background=000000">--> 
  
