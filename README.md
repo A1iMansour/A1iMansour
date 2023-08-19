@@ -36,7 +36,7 @@
 <div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
   <img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
+  <img  align ="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
   <!--<br clear="right"/>-->
   <!--<img src="https://streak-stats.demolab.com/?user=A1iMansour&theme=dark&background=000000">--> 
  
