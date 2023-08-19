@@ -41,12 +41,12 @@
 <table >
 
   <tr>
-    <th width="570vw">
+    <th width="550vw">
       <img width="550vw" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
       <img width="550vw" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
     </th>
     <th>
-     <img width= "400vw"  src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
+     <img width= "450vw"  src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
     </th>
   </tr>
 
