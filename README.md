@@ -35,11 +35,11 @@
 ### :fire: My Stats :
 <div class="container-fluid">
   <div class="row">
-    <div class="col-sm-7">
+    <div class="col-sm-6">
       <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
       <img  src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-6">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
     </div>
   </div>
