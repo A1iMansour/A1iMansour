@@ -41,12 +41,12 @@
 <table >
 
   <tr>
-    <th width="69%">
-      <img width="67%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
-      <img width="67%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
+    <th width="50%">
+      <img width="80%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
+      <img width="80%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
     </th>
     <th width="70%">
-     <img width= "69%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
+     <img width= "80%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
     </th>
   </tr>
 
