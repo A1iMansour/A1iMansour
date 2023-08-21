@@ -40,13 +40,13 @@
 
 <table >
 
-  <tr>
+  <tr>https:
     <th width="50%">
-      <img width="95%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
+      <img width="95%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=A1iMansour&layout=compact&theme=algolia">
       <img width="95%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=A1iMansour&theme=algolia">
     </th>
-    <th width="50%">
-     <img width= "80%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=A1iMansour&layout=pie&theme=algolia">
+    <th width="50%">        <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=-->
+     <img width= "100%"  src="//github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
     </th>
   </tr>
 
