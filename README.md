@@ -47,6 +47,7 @@
     </th>
     <th width="50%">        <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=-->
      <img width= "100%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia">
+      <!--<img width= "100%"  src="https://github-readme-stats.vercel.app/api?username=A1iMansour&layout=compact&theme=algolia&include_all_commits=true">-->
     </th>
   </tr>
 
